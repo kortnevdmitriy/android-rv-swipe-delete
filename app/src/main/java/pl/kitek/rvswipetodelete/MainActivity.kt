@@ -38,4 +38,5 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             R.id.addItemBtn -> simpleAdapter.addItem("New item")
         }
     }
+
 }
